@@ -1,5 +1,5 @@
 # algorithms
-Everton Godoi - everton.godoi@gmail.com
+Everton Godoi - everton.godoi@gmail.com<br>
 Brazilian Software Engineer
 
  - QuickFind
